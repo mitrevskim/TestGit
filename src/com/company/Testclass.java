@@ -5,8 +5,7 @@ public class Testclass {
         System.out.println("Hello team");
         System.out.println("Homework");
         System.out.println("testing");
-        System.out.println("InteliiJ");
-        System.out.println("Amend");
+
 
     }
 }
